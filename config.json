@@ -45,7 +45,7 @@
     },
     "exit": {
       "_comment": "type=text, content=put your text here - type=native_ad - type=banner, image=example link=example",
-      "type": "text",
+      "type": "native_ad",
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
