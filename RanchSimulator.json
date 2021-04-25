@@ -96,53 +96,133 @@
       }
     }
   },
-  "data": {
+ "data": {
     "items": [
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 0",
-        "description": "Test description 0"
+        "image": "https://play-lh.googleusercontent.com/emzHadRVUctwXzIIxANcR1lnB_96RfO5LAZR9NJNV8Es25Tzr6Fz4l73F6lQxy2hSTY",
+        "title": "ABOUT THE GAME
+",
+        "description": "About The Game 
+        RANCH In this guide, we will be sharing with you the best settings to avoid Ranch Simulator FPS drop, low frame-rate, in-game lag, and other performance issues. If you're one of the players who have been getting Ranch Simulator performance issues, make sure to check the tips below."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 1",
-        "description": "Test description 1"
+        "image": "https://play-lh.googleusercontent.com/k_KjEjAaczPx9JnQcTA-VYfghdsWU7-egr_UgmBGyh0H0VHCni4D4jV3kK2PyMCgQcPD=w720-h310-rw",
+        "title": "HOW TO FIX RANCH SIMULATOR FPS DROP ISSUES",
+        "description": "How to Fix Ranch Simulator FPS
+       RANCH While there are some who have been getting a good Ranch Simulator gaming experience, there are also some gamers who are in constant lag and low FPS. If you're one of the players getting this kind of issue in Ranch Simulator, here's our recommendation to fix this problem."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 2",
-        "description": "Test description 2"
+        "image": "https://play-lh.googleusercontent.com/tgTDYoHh2LdE97GCOoTwLQ_916O3nVY5uVVmC6mR5yQwJKgkcxFbKGJ6kmx0sZz34Bc=w720-h310-rw",
+        "title": "FIX 1: GPU SETTINGS OPTIMIZATION
+",
+        "description": "Fix 1: GPU Settings Optimization 
+        RANCH For Nvidia users, here are the steps for how you can optimize Ranch Simulator on your PC. * Open Nvidia Control Panel. Simply right-click on your desktop and hit the program. * Go to Manage 3D Settings and choose Ranch Simulator from the Program Settings. * Set Power Management to Prefer Maximum Power. For AMD users, check the steps below to get the good settings. * Open Radeon Settings. Simply right-click on your desktop and hit the program. * Once done, click Settings > Switchable Graphics > and choose Ranch Simulator. If the game is not listed, hit the Browse button and search"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 3",
-        "description": "Test description 3"
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "FIX 2: WINDOWS GRAPHIC SETTINGS PRIORITIZATION",
+        "description": "Fix 2: Windows Graphic Settings...
+RANCH Usually, the settings that have been mentioned above will already fix the FPS drop and other performance issues in Ranch Simulator. But if you want to get more improvement, please following the steps below. 1- Open Graphics Settings from your computer. You can easily access this option by typing Graphics Settings in the search bar. 2- By default, you will be seeing the Classic App. 3- Click Browse and search for the .exe file of Ranch Simulator. 4-Click Options and select High Performance. 5- Click the Save button to save changes. 6- Go to the installation folder of Ranch Simulator and launch the game as an administrator."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
         "state": "free",
-        "title": "Test title 4",
-        "description": "Test description 4"
+        "title": "FIX 3: UPDATE GPU DRIVERS",
+        "description": "Fix 3: Update GPU Drivers 
+RANCH Graphics card manufacturers have been constantly releasing new updates on their product to optimize every new application that is being released in the market. If you haven't updated your graphics card for a while now, you should definitely get the new update today. We have already compiled the links below to make things easier for you."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 5",
-        "description": "Test description 5"
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "FIX 4: RANCH SIMULATOR VISUAL SETTINGS",
+        "description": "RANCH Last but not least is the actual visual optimization inside Ranch
+choosing the medium settings for your PC. Depending on your hardware, you can play with the graphic settings in the game."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 6",
-        "description": "Test description 6"
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "COW",
+        "description": "cow
+Ensure you have built a barn keep the doors locked to prevent the cow from escaping. You can milk a cow twice a day, remember to buy milk can so that you can transport and sell the milk at the general store."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 7",
-        "description": "Test description 7"
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "PIG",
+        "description": "PIG
+Ensure you have built a barn keep the doors locked to prevent the pig from escaping. You will need a lot of grain as once the pig has been fattened, you must slaughter it and deliver the meat to the general store to sell."
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 8",
-        "description": "Test description 8"
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "MSI AFTERBURNER.",
+        "description": "MSI Afterburner RANCH
+Upon setting up the Ranch Simulator graphics settings, you can try playing the game and see if you're getting a good FPS. Steam has a feature to show the actual FPS while in-game. To do this, go to Steam > Settings > In-game FPS counter > choose the location. If you want to use a third-party application to see the FPS, we recommend using MSI Afterburner."
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "CHICKEN",
+        "description": "Chicken Breeding chickens is a cost-effective and great start for ranchers. Ensure you have built a chicken coop as this will keep them safe. Place a chicken in a coop and it will return there ti eat and sleep. Do not forget to keep replenishing the grain and water. Chickens lay eggs once a day, most often in the evening or at night. With at least one chicken and one rooster in the same coop, the chicken will soon lay a fertilized egg. Mother chickens are attentive to their eggs, sp if you pick up a fertilized one the chicken may start to bite you. You can purchase an ovoscope from the general store for candling eggs which will help you see if the egg is fertilized. Put unfertilized eggs in a basket to safely transport them to the store to sell, but leave fertilized eggs with their mothers to hatch naturally."
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "RADIO TOWER",
+        "description": "Radio Tower
+I have absolutely no idea what this is. I built it and it didn't do anything as far as I can tell. If you do know though, I would love to hear about it. My assumption is it is their for future purposes."
+      }
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "MULTIPLAYER PERSON FLYING THROUGH THE WORLD",
+        "description": "Multiplayer Person flying through...
+I play multiplayer with a friend, and when he gets out of cars it nearly always launches him. It either teleports him or he just goes flying in which he has to load back in."
+      },
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "CONCLUSION",
+        "description": "Conclusion
+This is a awesome game, and if you don't have it, buy it. This is so fun, and launching around 2 weeks from when I am writing this, it has been a blast. I cannot wait for the new updates and for this game to continue growing. So share this game with friends. Feel free to ask me some questions in the comments :)"
+      },
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "COWS RANDOMLY TELEPORT YOU",
+        "description": "Cows randomly teleport you
+
+When milking a cow, and you finish you can be launched, which is really annoying."
+      },
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "CHICKEN COOPS",
+        "description": "
+Chicken Coops
+
+Their are 4 different coops. There is the small coop, the medium coop, the large coop and the premium coop. These can all have feeding troughs built inside them."
+      },
+            {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "HOUSE",
+        "description": "House
+You only get one house to build, but I'm assuming there will be more."
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "VEHICLES",
+        "description": "Vehicles
+There are quite a few vehicles in Ranch Simulator. But there are only a few useful ones. These are the $1250 pickup truck, the $1400 pickup truck, the animal truck and the gator thing. The best vehicle to purchase is the $1400 pickup truck fully upgraded in my opinion, It handles really well in the bush, it can store a ton of items such as meat, wheat bags etc. And it can hold either 2 pigs or 1 cow. It also has one of the best top speeds in the game. What about the $1250 pickup, It can carry the same amount of animals as the $1400 1 here you ask. Well let me explain, the $1250 can in fact hold the same exact amount of animals, it also has the fastest acceleration. But the biggest problem is the handling. You will be skidding out, flipping the thing left right and centre. And for $150 more, the $1400 is"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "BARN",
+        "description": "Barn
+Their is only one barn and can be extended up to 3 times. (I think) This can also have a fence placed around, main barn doors, doors, feeding trough, cow cubicles, feeding trough for the cubicles and that's it."
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "ANIMAL TRANSPORTATION",
+        "description": "ANIMAL TRANSPORTATION
+You can transport animals in a car (see Cars capacity). Press E button when facing large livestock and you can control it to either follow you home on foot or to get in the car when facing it.
+"
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/79I-Kqf6A7A8922QX4kRTBF2BybxqZlsLs2b1fJTmcMGpqGlOWa4RVUa6wFmHEQHaVo=w720-h310-rw",
+        "title": "HUNTING",
+        "description": "Hunting
+3 animals types exist in this game. Deer, bears and wolves. These can all be found at different parts of the map. Deer are the most common found anywhere. The ranch, general store etc. Bears are found in the lower right corner of the map near a random house that you can get into by jumping on the mailbox. (But you can't get out unless you get into your vehicle through the wall) Wolves are found around the middle. Deer take 2 shots to take down and give 3 meat when skinned. Bears take 4-5 shots and give 5 - 6 meat. Wolves take 1 shot and give 2 meat."
       }
     ]
   }
