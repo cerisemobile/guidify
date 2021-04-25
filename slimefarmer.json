@@ -1,0 +1,151 @@
+{
+  "config": {
+    "version": "2.0.0",
+    "ads": {
+      "enabled": false,
+      "mode_ads_banner": "adcolony",
+      "mode_ads_interstitial": "facebook",
+      "mode_ads_native": "admob",
+      "mode_ads_rewarded": "",
+      "adcolony": {
+        "adcolony_app_id": "appaa814d2551b94cdb81",
+        "adcolony_interstitial_id": "vz8a72e7b691d04847bb",
+        "adcolony_banner_id": "vz50e276396cb0423581",
+        "adcolony_rewarded_id": ""
+      },
+      "admob": {
+        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_rewarded_id": "",
+        "admob_unit_id": ""
+      },
+      "appodeal": {
+        "appodeal_app_key": "dfaea284bc7f8f1b7919e2271a495f8afbad91650112bf3a"
+      },
+      "facebook": {
+        "facebook_banner_id": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "facebook_interstitial_id": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "facebook_native_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+      },
+      "unity": {
+        "unity_app_id": "4100687",
+        "unity_banner_id": "Banner_Android",
+        "unity_interstitial_id": "Interstitial_Android",
+        "unity_rewarded_id": ""
+      }
+    },
+    "update": {
+      "_comment": "action= , url, app id",
+      "state": false,
+      "title": "Update your app",
+      "message": "New Version!",
+      "action": "",
+      "closeable": true
+    },
+    "exit": {
+      "_comment": "type=text, content=put your text here - type=native_ad - type=banner, image=example link=example",
+      "type": "native_ad",
+      "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+      "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+      "loader": {
+        "enabled": false,
+        "duration": 3000
+      }
+    },
+    "rating": {
+      "enabled": false
+    },
+    "popup": {
+      "_comment": "link= , appid, url",
+      "enabled": false,
+      "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+      "title": "Toca Life!\uD83C\uDF89",
+      "description": "Download and Enjoy!\n\uD83D\uDC4FNeon Rainbow Apartment\nThe new Life Wordl Town!\nBuild stories\nCreate Your World!",
+      "link": "https://play.google.com/"
+    },
+    "activities": {
+      "splash": {
+        "duration": 4000
+      },
+      "start": {
+        "enabled": false,
+        "loader": {
+          "enabled": false,
+          "duration": 5000
+        }
+      },
+      "main": {
+        "_comment": "more=put developer id",
+        "more": "5700313618786177705"
+      },
+      "list": {
+        "item": {
+          "_comment": "type = image, text, card",
+          "type": "image",
+          "loader": {
+            "enabled": false,
+            "duration": 5000
+          }
+        }
+      },
+      "item": {
+        "native_ad": false,
+        "banner_ad": true,
+        "interstitial_ad": true
+      }
+    }
+  },
+ "data": {
+    "items": [
+      {
+        "image": "https://vignette.wikia.nocookie.net/a28dfa7b-6df7-4998-bce4-4fdebe0e9ef3/scale-to-width-down/800",
+        "title": "‘Slime Rancher’ Quick Start Guide: 5 Tips",
+        "description": "So you think you can be a Slime Rancher, eh? Well, The Far, Far Range can be unforgiving to players who are unfamiliar with its wiggly inhabitants.To help you get your hands dirty on The Ranch, we put together some helpful hints. Whether you want to amass a large income or explore new locations, we’ll give you the low-down here in this handy quick start guide."
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/E_LeYDWDtPSNKMy2vQjXFBPRyHZq8xGOK6HN6gxpKPo_16SZUSNOYBgTwFdB-RkV6_U=w720-h310-rw",
+        "title": "HUMBLE BEGINNINGS",
+        "description": "Your first interaction with Slime Rancher will be with your very own Ranch. You’ll notice that you’ll have 8 plots to work with. To get off to a quick start, you’ll want to invest in some Corrals and Gardens. In order to afford these luxuries, you’ll need to start collecting Plorts.
+Plorts can be found as soon as you venture out into The Dry Reef. Technically, Plorts are excrement of Slimes. Once a Slime eats a piece of food, they’ll pop out a Plort.
+Pink Slimes will no doubt be the most common species you’ll encounter. They will also eat any type of food. If you cant find enough Plorts laying around, pick up some nearby food to feed a hungry group of Pink Slimes. Spend your first trip to the Dry Reef only collecting Plorts that are dropped by Slimes.
+Once your Vacpack is full of Plorts, cash them all in at the Plort Market. Use the money you make from the first couple runs in The Dry Reef to buy a few Corrals."
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/fxij0m5PcU0qeTDNKhsLJmt1wXxWFNDKqAIPCZY6HVafTDTpSWeMO5XmG94fQeP2UI8=w720-h310-rw",
+        "title": "START CORRALIN",
+        "description": "Now that you have a couple of Corrals setup, head back out to The Dry Reef to start sucking up some Pink and Rock Slimes.
+The reason we chose Rock Slimes over other common Slimes, is because they have a more accommodating diet to cater to and their Plorts yield high economic returns. You’ll want to be careful when collecting Rock Slimes, as their spiky exteriors can damage you.
+Once your Vacpack is full of these two types of Slimes, head back to The Ranch and toss ’em in their Corrals. It is very important that you do NOT ever mix more than two types of Slimes together, as it will result in some unpleasant offspring (The Tarr).
+In order for your newly domesticated Slimes to produce fresh Plorts, you’ll need to feed them.
+The great thing about Pink Slimes is their diverse diet. They will eat literally anything! Find any edibles out in The Dry Reef to bring back to them.
+Rock Slimes however, are a bit more picky. These dangerous critters are strict vegetarians, with a particular favorite in Heart Beets.
+After collecting a fair amount of food for our hungry Slimes, you’ll want to cash in on those fresh Plorts that they graciously left for you to collect in their pen."
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/qQUjqtoZYJSF9PmO8ik3pJNPE3QjlB2Ky3JZea24oRaP3i0dFR5ILoWpXEz39ri7VA=w720-h310-rw",
+        "title": "GREEN THUMB",
+        "description": "ow that you have a wad of fresh, steamy Plorts in your pockets after feeding your Slimes — you’ll want to reinvest it.
+Having to forage for food to keep our Slimes healthy and productive can be time consuming and repetitive. In order to save some time and money, we’ll want to start growing crops in Gardens that can be harvested to feed our Slimes. Ideally, we’ll want to start a 2-3 vegetable crops to feed our Slimes.
+While you wait for the food to grow, continue to collect Plorts and think about potentially upgrading the walls of your current Corrals to increase the capacity of Slimes."
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/xMK_RkGP7p05Ullel67t-3IYsrVFQad-45PzVMgptRyZn03WiGoAZwjGgphBQHHHwZw=w720-h310-rw",
+        "state": "free",
+        "title": "FANCY FARMING",
+        "description": "By now, our Ranch is starting to look pretty good! If we want to make our lives a bit easier, we can take all that hard earned cash we’ve earned to make farming a bit more streamlined.
+Some Corral upgrades can be nifty as we can purchase an auto-feeder and Plort collector. These two upgrades can help alleviate some of the more tedious tasks involved with the game. You can insert food items into a vacuum that will dispense it when appropriate to inhabitants. The Plort collector can be especially useful when dealing with hostile or dangerous Slimes. Rock Slimes can injure you easily, and instead of having to enter their corral to collect Plorts, you can vacuum them safely from outside.
+If you’re having issues creating enough food for your hungry Slimes, upgrading your Garden plots would be wise. Two options will increase yields and speed of your crops — helping you feed your hungry horde of Slimes faster."
+      },
+      {
+        "image": "https://play-lh.googleusercontent.com/i57xsOGDvQnfePbGxY3xHL7XOJjq4OA8T9wN6NBS3jWmbdGyGitFRFwume_R-Bk0WrY=w720-h310-rw",
+        "title": "EXPAND OR EXPLORE",
+        "description": "Congratulations on your bustling ranch! By now you should have most of your 8 plots utilized in some capacity and a steady flow of income. Since you’ve run out of room on your ranch, you may start thinking, “whats next?”
+There are a couple options at this fork in the road — keep expanding your ranch or start exploring other regions. Depending on how you’re feeling, either is a fine choice. Though, exploring new regions will definitely speed up your progress in the game.
+If you wish to start unlocking new territories, you’ll need to find Gordo Slimes. These obese versions of regular slimes can be found in various places and will require 25 food items before it gives you what you desire — a Slime Key. You’ll need this key to open new territories.
+If more farm space is your concern, there are some affordable options to expand to. The Grotto is the cheapest option that will grant you an additional 5 plots to perhaps further sustain your Ranch.
+Regardless of what you decide, there isn’t really a wrong decision!"
+      }
+    ]
+  }
+}
