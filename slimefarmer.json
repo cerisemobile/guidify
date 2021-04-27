@@ -4,7 +4,7 @@
     "ads": {
       "enabled": true,
       "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "appodeal",
+      "mode_ads_interstitial": "unity",
       "mode_ads_native": "appodeal",
       "mode_ads_rewarded": "",
       "adcolony": {
@@ -29,7 +29,7 @@
         "facebook_native_id": "168781221766726_168782948433220"
       },
       "unity": {
-        "unity_app_id": "4100687",
+        "unity_app_id": "4107209",
         "unity_banner_id": "Banner_Android",
         "unity_interstitial_id": "Interstitial_Android",
         "unity_rewarded_id": ""
@@ -90,7 +90,7 @@
         }
       },
       "item": {
-        "native_ad": false,
+        "native_ad": true,
         "banner_ad": true,
         "interstitial_ad": true
       }
