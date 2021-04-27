@@ -2,10 +2,10 @@
   "config": {
     "version": "2.0.0",
     "ads": {
-      "enabled": false,
-      "mode_ads_banner": "adcolony",
-      "mode_ads_interstitial": "facebook",
-      "mode_ads_native": "admob",
+      "enabled": true,
+      "mode_ads_banner": "facebook",
+      "mode_ads_interstitial": "appodeal",
+      "mode_ads_native": "appodeal",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -15,7 +15,7 @@
       },
       "admob": {
         "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_interstitial_id": "364317608337890_364319418337709",
         "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
@@ -24,7 +24,7 @@
         "appodeal_app_key": "dfaea284bc7f8f1b7919e2271a495f8afbad91650112bf3a"
       },
       "facebook": {
-        "facebook_banner_id": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "facebook_banner_id": "364317608337890_364318728337778",
         "facebook_interstitial_id": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
         "facebook_native_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
       },
@@ -49,12 +49,12 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": false,
+        "enabled": true,
         "duration": 3000
       }
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "popup": {
       "_comment": "link= , appid, url",
@@ -84,8 +84,8 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
-            "duration": 5000
+            "enabled": true,
+            "duration": 4000
           }
         }
       },
