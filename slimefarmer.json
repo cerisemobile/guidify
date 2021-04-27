@@ -2,10 +2,10 @@
   "config": {
     "version": "2.0.0",
     "ads": {
-      "enabled": false,
-      "mode_ads_banner": "adcolony",
-      "mode_ads_interstitial": "facebook",
-      "mode_ads_native": "admob",
+      "enabled": true,
+      "mode_ads_banner": "appodeal",
+      "mode_ads_interstitial": "appodeal",
+      "mode_ads_native": "appodeal",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -21,7 +21,7 @@
         "admob_unit_id": ""
       },
       "appodeal": {
-        "appodeal_app_key": "dfaea284bc7f8f1b7919e2271a495f8afbad91650112bf3a"
+        "appodeal_app_key": "42d266365670a8c964fc09b5ce3a3572147f992c24d7675c"
       },
       "facebook": {
         "facebook_banner_id": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
@@ -49,12 +49,12 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": false,
+        "enabled": true,
         "duration": 3000
       }
     },
     "rating": {
-      "enabled": false
+      "enabled": true
     },
     "popup": {
       "_comment": "link= , appid, url",
@@ -69,9 +69,9 @@
         "duration": 4000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 5000
         }
       },
@@ -82,10 +82,10 @@
       "list": {
         "item": {
           "_comment": "type = image, text, card",
-          "type": "text",
+          "type": "image",
           "loader": {
-            "enabled": false,
-            "duration": 5000
+            "enabled": true,
+            "duration": 4000
           }
         }
       },
