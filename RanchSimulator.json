@@ -69,7 +69,7 @@
         "duration": 4000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
           "enabled": false,
           "duration": 5000
