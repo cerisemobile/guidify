@@ -69,10 +69,10 @@
         "duration": 4000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
-          "duration": 5000
+          "enabled": false,
+          "duration": 4000
         }
       },
       "main": {
