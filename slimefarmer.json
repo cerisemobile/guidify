@@ -66,12 +66,12 @@
     },
     "activities": {
       "splash": {
-        "duration": 4000
+        "duration": 3000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 4000
         }
       },
