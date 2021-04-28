@@ -71,7 +71,7 @@
       "start": {
         "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 5000
         }
       },
