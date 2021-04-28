@@ -5,7 +5,7 @@
       "enabled": true,
       "mode_ads_banner": "facebook",
       "mode_ads_interstitial": "unity",
-      "mode_ads_native": "appodeal",
+      "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -26,7 +26,7 @@
       "facebook": {
         "facebook_banner_id": "168781221766726_168782031766645",
         "facebook_interstitial_id": "168781221766726_168782948433220",
-        "facebook_native_id": "168781221766726_168782948433220"
+        "facebook_native_id": "168781221766726_168783625099819"
       },
       "unity": {
         "unity_app_id": "4107209",
