@@ -5,7 +5,7 @@
       "enabled": true,
       "mode_ads_banner": "adcolony",
       "mode_ads_interstitial": "adcolony",
-      "mode_ads_native": "adcolony",
+      "mode_ads_native": "admob",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "apped2afb49ebe548438a",
