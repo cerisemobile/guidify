@@ -3,8 +3,8 @@
     "version": "2.0.0",
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "admob",
-      "mode_ads_interstitial": "admob",
+      "mode_ads_banner": "unity",
+      "mode_ads_interstitial": "unity",
       "mode_ads_native": "admob",
       "mode_ads_rewarded": "",
       "adcolony": {
@@ -16,7 +16,7 @@
       "admob": {
         "admob_banner_id": "ca-app-pub-1807546597813052/9740010995",
         "admob_interstitial_id": "ca-app-pub-1807546597813052/3719374030",
-        "admob_native_id": "ca-app-pub-1807546597813052/9548439304",
+        "admob_native_id": "ca-app-pub-1807546597813052/6577278147",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
