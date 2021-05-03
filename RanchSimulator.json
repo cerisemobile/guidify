@@ -3,9 +3,9 @@
     "version": "2.0.0",
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "facebook",
+      "mode_ads_banner": "appodeal",
       "mode_ads_interstitial": "unity",
-      "mode_ads_native": "facebook",
+      "mode_ads_native": "appodeal",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "v4vca1cf66483c4f405598",
