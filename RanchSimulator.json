@@ -4,7 +4,7 @@
     "ads": {
       "enabled": true,
       "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "unity",
+      "mode_ads_interstitial": "facebook",
       "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
@@ -25,7 +25,7 @@
       },
       "facebook": {
         "facebook_banner_id": "364317608337890_364318728337778",
-        "facebook_interstitial_id": "364317608337890_364319408337710",
+        "facebook_interstitial_id": "364317608337890_364319418337709",
         "facebook_native_id": "364317608337890_364320465004271"
       },
       "unity": {
