@@ -4,7 +4,7 @@
     "ads": {
       "enabled": true,
       "mode_ads_banner": "admob",
-      "mode_ads_interstitial": "unity",
+      "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
       "mode_ads_rewarded": "",
       "adcolony": {
@@ -69,7 +69,7 @@
         "duration": 3000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
           "enabled": true,
           "duration": 4000
