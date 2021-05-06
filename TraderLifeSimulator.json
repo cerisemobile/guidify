@@ -99,48 +99,48 @@
   "data": {
     "items": [
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415660/ss_777a064702e06b85a0275ec89b37559dd511a5e0.600x338.jpg?t=1619685214",
         "title": "Test title 0",
         "description": "Test description 0"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415660/ss_d5687967283f335b4ee5a2b6559cdfeca0c8b369.600x338.jpg?t=1619685214",
         "title": "Test title 1",
         "description": "Test description 1"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415660/ss_bd2fe34b0efa01ee9a360e93b098a8eb5a4b889f.600x338.jpg?t=1619685214",
         "title": "Test title 2",
         "description": "Test description 2"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415660/ss_351be5f02f93fde127c9a1ce46fe0e4838233759.600x338.jpg?t=1619685214",
         "title": "Test title 3",
         "description": "Test description 3"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415660/ss_145e85f951380785f4cab78d79211e4929f07ae3.600x338.jpg?t=1619685214",
         "state": "free",
         "title": "Test title 4",
         "description": "Test description 4"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415660/ss_b7436979083407a902fdc4402ab71cfecbe6e070.600x338.jpg?t=1619685214",
         "title": "Test title 5",
         "description": "Test description 5"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415660/ss_027b61bfbdc81273c83241526f65b7499f2f5b19.600x338.jpg?t=1619685214",
         "title": "Test title 6",
         "description": "Test description 6"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415660/ss_9250fb7020463357d951ca8945c7adb74820c080.600x338.jpg?t=1619685214",
         "title": "Test title 7",
         "description": "Test description 7"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1415660/header.jpg?t=1619685214",
         "title": "Test title 8",
         "description": "Test description 8"
       }
