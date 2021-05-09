@@ -2,9 +2,9 @@
   "config": {
     "version": "2.0.0",
     "ads": {
-      "enabled": false,
-      "mode_ads_banner": "adcolony",
-      "mode_ads_interstitial": "facebook",
+      "enabled": true,
+      "mode_ads_banner": "admob",
+      "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
       "mode_ads_rewarded": "",
       "adcolony": {
@@ -14,9 +14,9 @@
         "adcolony_rewarded_id": ""
       },
       "admob": {
-        "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+        "admob_banner_id": "ca-app-pub-3402609341091832/1525407223",
+        "admob_interstitial_id": "ca-app-pub-3402609341091832/6394590523",
+        "admob_native_id": "ca-app-pub-3402609341091832/3768427183",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
       },
