@@ -69,9 +69,9 @@
         "duration": 3000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
@@ -84,7 +84,7 @@
           "_comment": "type = image, text, card",
           "type": "card",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 5000
           }
         }
