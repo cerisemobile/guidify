@@ -3,8 +3,8 @@
     "version": "2.0.0",
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "unity",
-      "mode_ads_interstitial": "unity",
+      "mode_ads_banner": "facebook",
+      "mode_ads_interstitial": "facebook",
       "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
@@ -24,9 +24,9 @@
         "appodeal_app_key": "42d266365670a8c964fc09b5ce3a3572147f992c24d7675c"
       },
       "facebook": {
-        "facebook_banner_id": "168781221766726_168782031766645",
-        "facebook_interstitial_id": "168781221766726_168782948433220",
-        "facebook_native_id": "168781221766726_168783625099819"
+        "facebook_banner_id": "394500581632393_394502314965553",
+        "facebook_interstitial_id": "394500581632393_394503434965441",
+        "facebook_native_id": "394500581632393_394503754965409"
       },
       "unity": {
         "unity_app_id": "4107209",
