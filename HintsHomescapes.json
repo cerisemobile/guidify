@@ -3,7 +3,7 @@
     "version": "2.0.0",
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "admob",
+      "mode_ads_banner": "facebook",
       "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
       "mode_ads_rewarded": "",
@@ -24,7 +24,7 @@
         "appodeal_app_key": "dfaea284bc7f8f1b7919e2271a495f8afbad91650112bf3a"
       },
       "facebook": {
-        "facebook_banner_id": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "facebook_banner_id": "506347723829144_506348423829074",
         "facebook_interstitial_id": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
         "facebook_native_id": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
       },
