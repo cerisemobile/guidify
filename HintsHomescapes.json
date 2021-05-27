@@ -69,9 +69,9 @@
         "duration": 4000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 5000
         }
       },
@@ -99,50 +99,33 @@
   "data": {
     "items": [
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 0",
-        "description": "Test description 0"
+        "image": "https://play-lh.googleusercontent.com/RGl5nxyLogvbTxC_ZhG6BrsAB5pPqsOdrxn3YRO4U9P4IQoH_bIiuax9us4LDdOcH2DZ=w720-h310-rw",
+        "title": "Guide 1",
+        "description": "guide1 part 1 Look for Homescapes your avatar with millions of items.
+From trending clothing, hairstyles, and makeup to branded collabs, express yourself in any way you can imagine. You can even save phone
+space by moving apps and games to your SdCard You can just get the apk link from your App or Game with Happy Apps Manager tool and you can share it with your friends to use together you can also manage your
+Games guide1 part2 OWN AVATAR Personalize your avatar with millions of items. From trending clothing, hairstyles, and makeup to branded
+collabs, express yourself in any way you can imagine"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 1",
-        "description": "Test description 1"
+        "image": "https://play-lh.googleusercontent.com/4vBYm_F-F64ouqqErxhum_UIo0ntyaiHknO1CaAFdbq25BwTxmn04zKrzB5Pm4DPdw=w720-h310-rw",
+        "title": "Guide 2",
+        "description": "guide2 part1 PLAY TOGETHER IN Look for HomescapesLook for Homescapes WORLDS Explores a limitless variety of maps, from a virtual
+classroom to an imaginary world guide2 part2 PLAY TOGETHER IN Look for Homescapes WORLDS Explores a limitless variety of maps, from a virtual classroom to an imaginary
+world"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 2",
-        "description": "Test description 2"
+        "image": "https://play-lh.googleusercontent.com/PaQdEq6cb2YTKfndkj4kwPTu3IuUrl5Rt_XxY9EHGUBImZS1BbSSYJ0AqV5W-Djsy30=w720-h310-rw",
+        "title": "Guide 3",
+        "description": "guide3 part1 Through Look for Homescapes, users create virtual replicas of themselves, interact with other virtual people, and customize mini
+virtual worlds. It is currently the top application on Apple App Store. Look for Homescapes has features for detailed customization of virtual personas and worlds, the creation of stickers and images of Zepetos in
+various situations, and social networking"
       },
       {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 3",
-        "description": "Test description 3"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "state": "free",
-        "title": "Test title 4",
-        "description": "Test description 4"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 5",
-        "description": "Test description 5"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 6",
-        "description": "Test description 6"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 7",
-        "description": "Test description 7"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-        "title": "Test title 8",
-        "description": "Test description 8"
+        "image": "https://play-lh.googleusercontent.com/A5eBK0Rl4OYCeuBh46d_zYEWkhYXDeFSgUB7cl8a2x_4xG6n3yKlqxBzTxLOkWh5Vg",
+        "title": "Guide 4",
+        "description": "guide4 part1 The app uses facial recognition technology to construct look-alike 3D animated avatars based on someone actual appearance. Users curate their makeup, style, and decoration of their virtual
+bedroom-like space guide4 The app uses facial recognition technology to construct look-alike 3D animated avatars based on someone actual appearance. Users curate their makeup, style, and decoration of their virtual bedroom-like space"
       }
     ]
   }
